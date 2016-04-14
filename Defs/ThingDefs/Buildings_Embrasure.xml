@@ -13,7 +13,7 @@
 	</ThingDef>
 
 
-   <ThingDef ParentName="BuildingBase" Name="Wall" Abstract="True">
+   <ThingDef ParentName="BuildingBase" Name="WallBase" Abstract="True">
     <defName>Wall</defName>
     <label>wall</label>
     <thingClass>Building</thingClass>
@@ -79,7 +79,6 @@
         <multiplier>2</multiplier>
       </li>
     </damageMultipliers>
-    <designationHotKey>B</designationHotKey>
   </ThingDef>
 
 	<ThingDef Name="Embrasure" ParentName="WallBase">
@@ -87,13 +86,16 @@
 		<label>Embrasure</label>
 		<description>An opening in the metal wall allows shooting and throwing grenades from the safety of your home.</description>
 		<costStuffCount>7</costStuffCount>
-		<WorkToMake>300</WorkToMake>
+		<statBases>
+			<WorkToMake>300</WorkToMake>
+		</statBases>
 		<fillPercent>0.99</fillPercent>
 		<uiIconPath>UI/Metal</uiIconPath>
 		<graphicData>
 			<texPath>Things/Building/Embrasure</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
+    <designationHotKey>E</designationHotKey>
 	</ThingDef>
 
 </ThingDefs>
