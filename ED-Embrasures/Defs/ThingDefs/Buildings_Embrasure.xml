@@ -49,7 +49,7 @@
 		</statBases>
 		<costStuffCount>5</costStuffCount>
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
-		<altitudeLayer>BuildingTall</altitudeLayer>
+		<altitudeLayer>Building</altitudeLayer>
 		<passability>Impassable</passability>
 		<castEdgeShadows>true</castEdgeShadows>
 		<fillPercent>1</fillPercent>
@@ -97,7 +97,6 @@
 			<texPath>Things/Building/Embrasure</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
-		<designationHotKey>E</designationHotKey>
 	</ThingDef>
 
 </ThingDefs>

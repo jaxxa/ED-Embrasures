@@ -10,5 +10,3 @@ A mod for the Game Rimworld
 01.00.01
 *Increased Cost and Time to Build.
 
-02.00.00
-*Alpha 14 Update
