@@ -91,7 +91,7 @@
 		<statBases>
 			<WorkToMake>600</WorkToMake>
 		</statBases>
-		<fillPercent>0.99</fillPercent>
+		<fillPercent>0.70</fillPercent>
 		<uiIconPath>UI/Metal</uiIconPath>
 		<graphicData>
 			<texPath>Things/Building/Embrasure</texPath>
