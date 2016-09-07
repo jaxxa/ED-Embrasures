@@ -15,3 +15,6 @@ A mod for the Game Rimworld
 
 02.00.01
 * Reducing fillPercent from .99 to .70
+
+03.00.00
+*Update to Alpha 15
