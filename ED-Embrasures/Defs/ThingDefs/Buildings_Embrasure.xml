@@ -44,7 +44,7 @@
 		<uiIconPath>Things/Building/Linked/WallSmooth_MenuIcon</uiIconPath>
 		<statBases>
 			<MaxHitPoints>350</MaxHitPoints>
-			<WorkToMake>150</WorkToMake>
+			<WorkToBuild>150</WorkToBuild>
 			<Flammability>1.0</Flammability>
 		</statBases>
 		<costStuffCount>5</costStuffCount>
@@ -89,7 +89,7 @@
 		<description>An opening in the metal wall allows shooting and throwing grenades from the safety of your home.</description>
 		<costStuffCount>15</costStuffCount>
 		<statBases>
-			<WorkToMake>600</WorkToMake>
+			<WorkToBuild>600</WorkToBuild>
 		</statBases>
 		<fillPercent>0.70</fillPercent>
 		<uiIconPath>UI/Metal</uiIconPath>

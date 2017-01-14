@@ -21,3 +21,6 @@ A mod for the Game Rimworld
 
 04.00.00
 *Update to Alpha 16
+
+04.00.01
+*Converting WorkToMake to WorkToBuild
