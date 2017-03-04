@@ -17,10 +17,13 @@ A mod for the Game Rimworld
 * Reducing fillPercent from .99 to .70
 
 03.00.00
-*Update to Alpha 15
+* Update to Alpha 15
 
 04.00.00
-*Update to Alpha 16
+* Update to Alpha 16
 
 04.00.01
-*Converting WorkToMake to WorkToBuild
+* Converting WorkToMake to WorkToBuild
+
+04.00.02
+* Adding Information about "I've Got You In My Sights" mod https://ludeon.com/forums/index.php?topic=30573.0
