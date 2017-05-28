@@ -27,3 +27,6 @@ A mod for the Game Rimworld
 
 04.00.02
 * Adding Information about "I've Got You In My Sights" mod https://ludeon.com/forums/index.php?topic=30573.0
+
+0.17.0
+* Update to Alpha 17

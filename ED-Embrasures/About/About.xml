@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>ED-Embrasures</name>
-	<targetVersion>0.16.1393</targetVersion>
+	<targetVersion>0.17.0</targetVersion>
 	<author>Jaxxa</author>
 	<url>https://ludeon.com/forums/index.php?topic=18995.0</url>
-	<description>Version: 04.00.02
+	<description>Version: 0.17.0
 	
 Discussion, Non Steam Downloads and GitHub Repositories of this mod is available at: https://ludeon.com/forums/index.php?topic=18995
-Please Use that Thread for Discussion / Feedback that would like me to reply to. 
-Ideally Bugs should be logged on GitHub although in the discussion thread is also fine.
 
 Adds embrasures for that can be shot through, while blocking passage.
 
