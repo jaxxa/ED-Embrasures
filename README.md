@@ -30,3 +30,7 @@ A mod for the Game Rimworld
 
 0.17.0
 * Update to Alpha 17
+
+0.17.1
+* Removing targeting fix information.
+* Graphical Pass.
