@@ -38,3 +38,6 @@ A mod for the Game Rimworld
 0.17.2
 * Added Korean translation by Steam user "Coldmoon"
 * Added ChineseSimplified Translation by Github user "WishingLaws"
+
+0.18.0.0
+* Update to Alpha 18
