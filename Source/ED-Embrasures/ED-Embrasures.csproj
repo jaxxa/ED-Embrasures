@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="Patch.cs" />
     <Compile Include="Patcher.cs" />
+    <Compile Include="Patch_EmbrasureDef.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Settings\ModSettings_Embrasures.cs" />
     <Compile Include="Settings\Mod_Embrasures.cs" />

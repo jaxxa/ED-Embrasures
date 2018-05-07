@@ -32,7 +32,7 @@ namespace EnhancedDevelopment.Embrasures
         /// </summary>
         public void ApplyPatchIfRequired(HarmonyInstance harmony = null)
         {
-            string _LogLocation = "Shields.Patch.ApplyPatchIfRequired: ";
+            string _LogLocation = "EnhancedDevelopment.Embrasures.ApplyPatchIfRequired: ";
 
             if (this.ShouldPatchApply())
             {
