@@ -13,6 +13,8 @@ namespace EnhancedDevelopment.Embrasures.Settings
         public int FillPercent = 70;
         public int StuffCost = 15;
 
+        //HP, Work, Flamability?
+
         //Int for Graphics Enum?
 
         public override void ExposeData()
@@ -34,13 +36,18 @@ namespace EnhancedDevelopment.Embrasures.Settings
             _Listing_Standard.Gap(12f);
 
             _Listing_Standard.GapLine(12f);
-            _Listing_Standard.Label("Fill Percent: " + FillPercent);
+            _Listing_Standard.Label("Fill Percent: " + FillPercent + "%");
             FillPercent = (int)(100 *_Listing_Standard.Slider(((float)FillPercent/100), 0.01f, 0.99f));
- 
+
+            _Listing_Standard.Label("Sandbags are 65%");
+
+
+
             _Listing_Standard.GapLine(12f);
             _Listing_Standard.Label("Stuff Cost: " + StuffCost);
             _Listing_Standard.IntAdjuster(ref StuffCost, 1, 1);
-            
+            _Listing_Standard.Label("Wall is 5 stuff");
+
             _Listing_Standard.End();
         }
     }
