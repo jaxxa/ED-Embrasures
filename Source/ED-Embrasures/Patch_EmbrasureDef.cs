@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using EnhancedDevelopment.Embrasures.Settings;
 using Harmony;
+using RimWorld;
 using Verse;
 
 namespace EnhancedDevelopment.Embrasures
@@ -13,8 +15,8 @@ namespace EnhancedDevelopment.Embrasures
         {
             ThingDef _EmbrasureDef = ThingDef.Named("ED_Embrasure");
 
-            _EmbrasureDef.fillPercent = 0.99f;
-            _EmbrasureDef.costStuffCount = 2;
+            _EmbrasureDef.fillPercent = Mod_Embrasures.Settings.FillPercent;
+            _EmbrasureDef.costStuffCount = Mod_Embrasures.Settings.StuffCost;
         }
 
         protected override string PatchDescription()
