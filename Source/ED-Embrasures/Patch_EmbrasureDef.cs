@@ -15,7 +15,7 @@ namespace EnhancedDevelopment.Embrasures
         {
             ThingDef _EmbrasureDef = ThingDef.Named("ED_Embrasure");
 
-            _EmbrasureDef.fillPercent = Mod_Embrasures.Settings.FillPercent;
+            _EmbrasureDef.fillPercent = (float)(Mod_Embrasures.Settings.FillPercent/100);
             _EmbrasureDef.costStuffCount = Mod_Embrasures.Settings.StuffCost;
         }
 
