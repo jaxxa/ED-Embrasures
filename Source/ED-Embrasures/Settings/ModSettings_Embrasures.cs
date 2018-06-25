@@ -10,7 +10,7 @@ namespace EnhancedDevelopment.Embrasures.Settings
     class ModSettings_Embrasures : ModSettings
     {
 
-        public int FillPercent = 70;
+        public int FillPercent = 75;
         public int StuffCost = 15;
 
         //HP, Work, Flamability?
@@ -21,7 +21,7 @@ namespace EnhancedDevelopment.Embrasures.Settings
         {
             base.ExposeData();
 
-            Scribe_Values.Look<int>(ref FillPercent, "FillPercent", 70);
+            Scribe_Values.Look<int>(ref FillPercent, "FillPercent", 75);
             Scribe_Values.Look<int>(ref StuffCost, "StuffCost", 15);
         }
         
@@ -37,7 +37,7 @@ namespace EnhancedDevelopment.Embrasures.Settings
 
             _Listing_Standard.GapLine(12f);
             _Listing_Standard.Label("Fill Percent: " + FillPercent + "%");
-            FillPercent = (int)(100 *_Listing_Standard.Slider(((float)FillPercent/100), 0.01f, 0.99f));
+            FillPercent = (int)(100 *_Listing_Standard.Slider((float)(FillPercent)/100f, 0.01f, 0.99f));
 
             _Listing_Standard.Label("Sandbags are 65%");
 
