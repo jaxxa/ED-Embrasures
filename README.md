@@ -41,3 +41,7 @@ A mod for the Game Rimworld
 
 0.18.0.0
 * Update to Alpha 18
+
+1.0.0.0
+* Update to 1.0
+* Adding Mod Settings to Modify the Stuff ammount required and Fill Percent.
