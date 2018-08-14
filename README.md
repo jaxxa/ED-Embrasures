@@ -45,3 +45,6 @@ A mod for the Game Rimworld
 1.0.0.0
 * Update to 1.0
 * Adding Mod Settings to Modify the Stuff ammount required and Fill Percent.
+
+1.0.0.1
+* Updating Build to 0.19.1987 and Harmony to 1.2.0.1
