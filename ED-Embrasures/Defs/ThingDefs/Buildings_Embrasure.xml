@@ -11,7 +11,7 @@
 			<WorkToBuild>600</WorkToBuild>
 		</statBases>
 		<fillPercent>0.70</fillPercent>
-		<uiIconPath>UI/Metal</uiIconPath>
+		<uiIconPath>UI/ED-Embrasures</uiIconPath>
 		<graphicData>
 			<texPath>Things/Building/Embrasure</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
