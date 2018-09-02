@@ -4,6 +4,8 @@ A mod for the Game Rimworld
 
 #Change Log
 
+1.0.0.2
+* Updating Build to 0.19.2009
 
 1.0.0.1
 * Updating Build to 0.19.2006 and Harmony to 1.2.0.1
