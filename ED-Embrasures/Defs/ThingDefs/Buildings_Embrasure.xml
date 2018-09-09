@@ -13,8 +13,8 @@
 		<fillPercent>0.70</fillPercent>
 		<uiIconPath>UI/ED-Embrasures</uiIconPath>
 		<graphicData>
-			<texPath>Things/Building/Embrasure</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
+			<texPath>Things/Building/Linked/Embrasure</texPath>
+			<graphicClass>Graphic_Appearances</graphicClass>
 		</graphicData>
 	</ThingDef>
 

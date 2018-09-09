@@ -4,6 +4,9 @@ A mod for the Game Rimworld
 
 #Change Log
 
+0.19.0.3
+* Adding art by Syrchalis
+
 0.19.0.2
 * Updating Build to 0.19.2009
 
