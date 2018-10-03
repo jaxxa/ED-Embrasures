@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>b4861b55-49c8-483b-a1eb-803c4e2a74bb</ID>
   <ModName>ED-Embrasures</ModName>
-  <Version>1.0.0.3</Version>
+  <Version>1.0.0.0</Version>
   <SaveBreaking>True</SaveBreaking>
   <Host name="Github">
     <Owner>Jaxxa</Owner>
