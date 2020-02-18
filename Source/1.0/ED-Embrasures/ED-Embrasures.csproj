@@ -17,7 +17,7 @@
     <DebugSymbols>false</DebugSymbols>
     <DebugType>none</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\ED-Embrasures\Assemblies\</OutputPath>
+    <OutputPath>..\..\..\ED-Embrasures\1.0\Assemblies\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -25,17 +25,17 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>none</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\..\ED-Embrasures\Assemblies\</OutputPath>
+    <OutputPath>..\..\..\ED-Embrasures\1.0\Assemblies\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>..\..\..\..\RW-DLL\Harmony\1.2.0.1\Release\net35\0Harmony.dll</HintPath>
+      <HintPath>..\..\..\..\..\RW-DLL\Harmony\1.2.0.1\Release\net35\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\RW-DLL\1.0\2059\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\..\RW-DLL\1.0\2408\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -45,7 +45,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\..\RW-DLL\1.0\2059\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\..\..\RW-DLL\1.0\2408\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
