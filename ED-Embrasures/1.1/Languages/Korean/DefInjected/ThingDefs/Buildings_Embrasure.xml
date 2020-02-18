@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--<Wall.label>벽</Wall.label> -->
+    <!--<Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description> -->
+
+    <Embrasure.label>총안구</Embrasure.label>
+    <Embrasure.description>An opening in the metal wall allows shooting and throwing grenades from the safety of your home.</Embrasure.description>
+
+</LanguageData>
