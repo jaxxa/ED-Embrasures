@@ -27,7 +27,7 @@ namespace EnhancedDevelopment.Embrasures
 
         protected override bool ShouldPatchApply()
         {
-            return true;
+            return Mod_Embrasures.Settings.ChangesEnabled;
         }
     }
 }

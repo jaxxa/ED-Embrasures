@@ -10,6 +10,7 @@ namespace EnhancedDevelopment.Embrasures.Settings
     class ModSettings_Embrasures : ModSettings
     {
 
+        public bool ChangesEnabled = false;
         public int FillPercent = 75;
         public int StuffCost = 15;
 
@@ -23,6 +24,7 @@ namespace EnhancedDevelopment.Embrasures.Settings
 
             Scribe_Values.Look<int>(ref FillPercent, "FillPercent", 75);
             Scribe_Values.Look<int>(ref StuffCost, "StuffCost", 15);
+            Scribe_Values.Look<bool>(ref ChangesEnabled, "ChangesEnabled", false);
         }
         
         public void DoSettingsWindowContents(Rect canvas)
@@ -31,6 +33,12 @@ namespace EnhancedDevelopment.Embrasures.Settings
             _Listing_Standard.ColumnWidth = 250f;
             _Listing_Standard.Begin(canvas);
             //listing_Standard.set_ColumnWidth(rect.get_width() - 4f);
+
+
+            _Listing_Standard.Label("System Enabled.");
+            _Listing_Standard.Gap(12f);
+            _Listing_Standard.CheckboxLabeled("Enabled", ref this.ChangesEnabled);
+
 
             _Listing_Standard.Label("Setting will only apply after a Game Restart.");
             _Listing_Standard.Gap(12f);
