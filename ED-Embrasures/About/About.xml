@@ -2,10 +2,10 @@
 <ModMetaData>
 	<name>ED-Embrasures</name>
 	<packageId>Jaxxa.ED.Embrasures</packageId>
-	<supportedGameVersions>
+	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
-	</supportedGameVersions>
+	</supportedVersions>
 	<author>Jaxxa</author>
 	<url>https://github.com/jaxxa/JaxxaRimworldReleaseCollection/blob/master/README.md</url>
 	<description>Version: 2.0.0.0
