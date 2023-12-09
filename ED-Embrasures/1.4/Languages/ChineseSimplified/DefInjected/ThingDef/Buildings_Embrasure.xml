@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wall definition from the Base Game, but made Abstract. -->
+
+  <!--[Core] <Wall.label>墙</Wall.label>-->
+  <!--[Core] <Wall.description>一面无法通过的墙。可以支撑起屋顶。</Wall.description>-->
+  <!--[Core] <Wall_Blueprint.label>墙（蓝图）</Wall_Blueprint.label>-->
+  <!--[Core] <Wall_Frame.label>墙（建造中）</Wall_Frame.label>-->
+
+
+  <!-- Embrasure from ED-Embrasure -->
+
+  <Embrasure.label>御敌墙</Embrasure.label>
+  <Embrasure.description>通过墙上的枪洞在家安全地射击敌人和投掷手榴弹。</Embrasure.description>
+  <Embrasure_Blueprint.label>御敌墙（蓝图）</Embrasure_Blueprint.label>
+  <Embrasure_Frame.label>御敌墙（建造中）</Embrasure_Frame.label>
+
+
+</LanguageData>
