@@ -4,7 +4,7 @@ A mod for the Game Rimworld
 
 #Change Log
 
-5.0.0
+2025-12-20
  * Updating to 1.6
 
 3.0.0.0
