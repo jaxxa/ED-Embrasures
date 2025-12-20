@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
 	<!--Embrasure from ED-Embrasure -->
 	<ThingDef Name="ED_Embrasure" ParentName="Wall">
 		<defName>ED_Embrasure</defName>
@@ -16,6 +15,8 @@
 			<texPath>Things/Building/Linked/Embrasure</texPath>
 			<graphicClass>Graphic_Appearances</graphicClass>
 		</graphicData>
+		<building>
+			<isStuffableAirtight>false</isStuffableAirtight>
+		</building>
 	</ThingDef>
-
 </Defs>
