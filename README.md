@@ -4,6 +4,9 @@ A mod for the Game Rimworld
 
 #Change Log
 
+4.0.0
+ * Updating to 1.6
+
 3.0.0.0
  * Updating to 1.3
 

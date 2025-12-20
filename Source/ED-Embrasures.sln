@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED-Embrasures_1.3", "1.3\ED
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED-Embrasures_1.4", "1.4\ED-Embrasures_1.4.csproj", "{DCC330AC-B766-472A-9BEE-280F57267C4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED-Embrasures_1.6", "1.6\ED-Embrasures_1.6.csproj", "{301A0FD9-A8CF-44E6-9C6F-32AD62E74CAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DCC330AC-B766-472A-9BEE-280F57267C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCC330AC-B766-472A-9BEE-280F57267C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCC330AC-B766-472A-9BEE-280F57267C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{301A0FD9-A8CF-44E6-9C6F-32AD62E74CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{301A0FD9-A8CF-44E6-9C6F-32AD62E74CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{301A0FD9-A8CF-44E6-9C6F-32AD62E74CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{301A0FD9-A8CF-44E6-9C6F-32AD62E74CAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
