@@ -4,6 +4,12 @@ A mod for the Game Rimworld
 
 #Change Log
 
+2025-12-20
+ * Updating to 1.6
+
+3.0.0.0
+ * Updating to 1.3
+
 2.0.0.0
  * Updating to Rimworld 1.0 and 1.1
 
