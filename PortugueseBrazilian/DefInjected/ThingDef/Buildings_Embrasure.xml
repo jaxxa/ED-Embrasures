@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- This is a Copy of the Wall from Core, having my own copy should stop incompatibilities with things that change wall -->
+
+  <ED-Embrasure-Wall.label>ED-Parede com frestas</ED-Embrasure-Wall.label>
+  <ED-Embrasure-Wall.description>Um muro intransponível. Capaz de segurar um telhado.</ED-Embrasure-Wall.description>
+  <ED-Embrasure-Wall_Blueprint.label>Parede com frestas ED (blueprint)</ED-Embrasure-Wall_Blueprint.label>
+  <ED-Embrasure-Wall_Frame.label>Parede com frestas ED (Construção)</ED-Embrasure-Wall_Frame.label>
+  <ED-Embrasure-Wall_Frame.description>Um muro intransponível. Capaz de segurar um telhado.</ED-Embrasure-Wall_Frame.description>
+
+
+  <!-- Embrasure from ED-Embrasure -->
+
+  <ED_Embrasure.label>Frestas</ED_Embrasure.label>
+  <ED_Embrasure.description>Uma abertura na parede de metal permite disparar e atirar granadas da segurança de sua casa.</ED_Embrasure.description>
+  <ED_Embrasure_Blueprint.label>Frestas (blueprint)</ED_Embrasure_Blueprint.label>
+  <ED_Embrasure_Frame.label>Frestas (Construção)</ED_Embrasure_Frame.label>
+  <ED_Embrasure_Frame.description>Uma abertura na parede de metal permite disparar e atirar granadas da segurança de sua casa.</ED_Embrasure_Frame.description>
+
+
+</LanguageData>
